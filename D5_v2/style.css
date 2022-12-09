@@ -33,7 +33,7 @@ nav {
 }
 
 #menuContainer {
-    margin-top: 0.5em;
+    padding-top: 0.5em;
     margin-left: 2em;
 }
 /*MAIN*/
@@ -53,6 +53,11 @@ main{
     text-align: center;
 }
 
+#orangeP {
+    color: #ffff;
+    padding-top: 0.5em;
+}
+
 /*SECTION - GREEN BANNER*/
 
 #greenBanner {
@@ -68,7 +73,14 @@ main{
 }
 
 #holidayGiftGuides {
-    margin-top: 4em;
+    padding-top: 2em;
+    padding-bottom: 1em;
+    font-weight: 700;
+    font-size: 2em;
+}
+
+#beAGoGifter {
+    font-weight: 600;
 }
 
 /*SECTION - ROUNDED PICTURES*/
