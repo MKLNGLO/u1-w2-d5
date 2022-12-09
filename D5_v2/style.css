@@ -6,6 +6,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: #E9EDEE;
 }
+
 /*HEADER*/
 header {
     border: 5px ;
@@ -84,10 +85,24 @@ main{
 }
 
 /*SECTION - ROUNDED PICTURES*/
+
+.sectionheading {
+    font-weight: 700;
+    font-size: 1.5em;
+    padding-right: 1em;
+    margin-top: 2em;
+}
+
+.shop {
+    font-weight: 700;
+    font-size: 1.2em;
+    padding-right: 1em;
+    margin-top: 2em;
+    color: #3a767c;
+}
 #roundedPictures{
     border: 5px solid #ffff;
     height: 30em;
-    text-align: center;
     background-color: #ffff;
 }
 
@@ -95,10 +110,21 @@ main{
 height: 25em;
 width: 22.2rem;
 border-radius: 20px;
-margin-left: 1.8em;
-margin-top: 3em;
+margin-left: 2.4em;
+margin-top: 2em;
 }
 
+#perfectGift{
+    font-weight: 700;
+    font-size: 1.5em;
+    padding-right: 1em;
+}
+
+#shopNow{
+
+    font-size: 1em;
+    padding-right: 1em;
+}
 /*SECTION - VR BANNER*/
 
 #vrBanner {
@@ -141,7 +167,12 @@ footer{
     color: aliceblue;
 }
 
+#footerA {
+    color: #ffff;
+} 
+
 #backToTop {
+    padding-top: 1em;
     border: 5px;
     height: 2em;
     background-color: rgb(54, 71, 89);
