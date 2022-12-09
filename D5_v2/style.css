@@ -1,4 +1,9 @@
 /*GENERAL SETTINGS*/
+body {
+    border: 1px solid #000;
+	width: 1707px;
+	margin: auto;
+}
 /*HEADER*/
 header {
     border: 5px solid black;
@@ -68,7 +73,7 @@ main{
 #roundedPictures{
     border: 5px solid black;
     height: 30em;
-    margin
+    text-align: center;
 }
 
 .roundedImage {
@@ -79,5 +84,20 @@ margin-left: 1.8em;
 margin-top: 3em;
 }
 
-/*SECTION*/ 
+/*SECTION - VR BANNER*/
+
+#vrBanner {
+    background-image: url(/assets/assets/img_9.png);
+    margin-top: 2em;
+    height: 30em;
+    background-size: 103em 30em;
+    background-repeat: no-repeat;
+    border: 5px solid black;
+    text-align: center;
+}
+ 
+#vrBannerText{
+text-align: center;
+}
+
 /*FOOTER*/
