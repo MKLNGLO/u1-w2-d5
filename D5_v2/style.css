@@ -101,6 +101,7 @@ main{
     padding-right: 1em;
     margin-top: 2em;
     color: #3a767c;
+    text-decoration: none;
 }
 #roundedPictures{
     border: 5px solid #ffff;
@@ -123,7 +124,7 @@ margin-top: 2em;
 }
 
 #shopNow{
-
+    text-decoration: none;
     font-size: 1em;
     padding-right: 1em;
 }
