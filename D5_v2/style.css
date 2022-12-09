@@ -3,6 +3,7 @@ body {
     border: 1px solid #000;
 	width: 1707px;
 	margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
 }
 /*HEADER*/
 header {
@@ -100,4 +101,43 @@ margin-top: 3em;
 text-align: center;
 }
 
+#marshallBanner {
+    background-image: url(/assets/assets/img_10.png);
+    margin-top: 2em;
+    height: 30em;
+    background-size: 103em 30em;
+    background-repeat: no-repeat;
+    border: 5px solid black;
+    text-align: center;
+}
+ 
+#marshallBannerText{
+text-align: center;
+margin-bottom: 2em;
+}
+
+
 /*FOOTER*/
+
+footer{
+    text-align: center;
+    border: 5px solid black;
+    height: 15em;
+    background-color: rgb(49, 49, 99);
+    color: aliceblue;
+}
+
+#backToTop {
+    border: 5px solid black;
+    height: 2em;
+    background-color: rgb(67, 67, 118);
+    color:aliceblue;
+    line-break: 3em;
+
+}
+
+#amazonLogo2 {
+    height: 4.2em;
+    margin-left: 2em;
+    margin-top: 4em;
+}
