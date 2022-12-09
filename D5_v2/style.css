@@ -35,6 +35,8 @@ main{
     margin-left: 2rem;
     margin-right: 2rem;
 }
+
+/*SECTION - ORANGE BAR*/
 #orangeBar {
     border: 5px solid black;
     background-color: orange;
@@ -43,6 +45,8 @@ main{
     margin-bottom: 2em;
     text-align: center;
 }
+
+/*SECTION - GREEN BANNER*/
 
 #greenBanner {
     background-image: url(/assets/assets/bg-image.png);
@@ -59,5 +63,21 @@ main{
 #holidayGiftGuides {
     margin-top: 4em;
 }
-/*SECTION*/
+
+/*SECTION - ROUNDED PICTURES*/
+#roundedPictures{
+    border: 5px solid black;
+    height: 30em;
+    margin
+}
+
+.roundedImage {
+height: 25em;
+width: 22.2rem;
+border-radius: 20px;
+margin-left: 1.8em;
+margin-top: 3em;
+}
+
+/*SECTION*/ 
 /*FOOTER*/
