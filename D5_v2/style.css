@@ -31,6 +31,8 @@ nav {
 
 .menu {
     margin-right: 1em;
+    color: #ffff;
+    text-decoration: none;
 }
 
 #menuContainer {
