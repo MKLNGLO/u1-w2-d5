@@ -1,15 +1,16 @@
 /*GENERAL SETTINGS*/
 body {
-    border: 1px solid #000;
+    border: 1px ;
 	width: 1707px;
 	margin: auto;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: #E9EDEE;
 }
 /*HEADER*/
 header {
-    border: 5px solid black;
+    border: 5px ;
     height: 5em;
-    background-color: rgb(49, 49, 99);
+    background-color: rgb(34, 47, 63);
     color: aliceblue;
     
 }
@@ -20,9 +21,9 @@ header {
 }
 /*NAV*/
 nav {
-    border: 5px solid black;
+    border: 5px ;
     height: 2em;
-    background-color: rgb(67, 67, 118);
+    background-color: rgb(54, 71, 89);
     color:aliceblue;
     line-break: 3em;
 }
@@ -44,8 +45,8 @@ main{
 
 /*SECTION - ORANGE BAR*/
 #orangeBar {
-    border: 5px solid black;
-    background-color: orange;
+    border: 5px;
+    background-color: rgb(245, 72, 0);
     height: 2em;
     margin-top: 2em;
     margin-bottom: 2em;
@@ -58,7 +59,7 @@ main{
     background-image: url(/assets/assets/bg-image.png);
     background-size: contain;
     background-repeat: repeat;
-    border: 5px solid black;
+    border: 5px;
     height: 12.2em;
     margin-top: 2em;
     margin-bottom: 2em;
@@ -72,9 +73,10 @@ main{
 
 /*SECTION - ROUNDED PICTURES*/
 #roundedPictures{
-    border: 5px solid black;
+    border: 5px solid #ffff;
     height: 30em;
     text-align: center;
+    background-color: #ffff;
 }
 
 .roundedImage {
@@ -93,7 +95,7 @@ margin-top: 3em;
     height: 30em;
     background-size: 103em 30em;
     background-repeat: no-repeat;
-    border: 5px solid black;
+    border: 5px ;
     text-align: center;
 }
  
@@ -107,7 +109,7 @@ text-align: center;
     height: 30em;
     background-size: 103em 30em;
     background-repeat: no-repeat;
-    border: 5px solid black;
+    border: 5px ;
     text-align: center;
 }
  
@@ -121,16 +123,16 @@ margin-bottom: 2em;
 
 footer{
     text-align: center;
-    border: 5px solid black;
+    border: 5px;
     height: 15em;
-    background-color: rgb(49, 49, 99);
+    background-color: rgb(34, 47, 63);
     color: aliceblue;
 }
 
 #backToTop {
-    border: 5px solid black;
+    border: 5px;
     height: 2em;
-    background-color: rgb(67, 67, 118);
+    background-color: rgb(54, 71, 89);
     color:aliceblue;
     line-break: 3em;
 
